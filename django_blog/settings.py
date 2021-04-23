@@ -109,9 +109,8 @@ DATABASES = {
 #         'USER': 'config("MYSQL_DB_USER")',
 #         'PASSWORD': 'config("MYSQL_DB_PASSWORD")',
 #         'HOST': 'config("MYSQL_DB_HOST")',
-#         'PORT': 'config("MYSQL_DB_PORT")'}
+#         'PORT': 3306}
 # }
-
 
 
 # Password validation
