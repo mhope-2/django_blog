@@ -6,7 +6,7 @@
 https://www.python.org/downloads/
 
 ### cloning the repository
-git clone 
+git clone https://github.com/mhope-2/django_blog.git
 
 ### create a virtual environment
 python3 -m venv env_name
